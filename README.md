@@ -2,8 +2,10 @@
 ## Welcome to My Pages
 
 
-Live preview portofolio: [odin-project](https://codringavan.github.io/odin-project/)
-                         [balance-sheet](https://codringavan.github.io/balance-sheet/)
+Live preview portofolio: 
+
+### Odin Project >> [Live preview](https://codringavan.github.io/odin-project/)
+### Balance Sheet >> [Live preview](https://codringavan.github.io/balance-sheet/)
 
 You can use the [editor on GitHub](https://github.com/CodrinGavan/CodrinGavan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
