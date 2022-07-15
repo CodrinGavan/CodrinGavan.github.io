@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+#  GitHub Portofolio
+## Welcome to My Pages
+
+
+Live preview portofolio: [odin-project](https://codringavan.github.io/odin-project/)
 
 You can use the [editor on GitHub](https://github.com/CodrinGavan/CodrinGavan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
