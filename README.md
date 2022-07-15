@@ -7,7 +7,7 @@ Live preview portofolio:
 ### Odin Project >> [Live preview](https://codringavan.github.io/odin-project/) >> [Code](https://github.com/CodrinGavan/odin-project)
 [View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijzeVq8KfJC0E5urbk1gLyt07wK0sabMsCHAyoP7hx13f159Kxb5LbFuiCGC7NcXVwHCUnpO-5hnpO8n47z2Z2o2Kpe0Bm-Ns1Fymtk6N_LGBKsVEHiMLqdiGLOhWOjx5ZxoEt2ivZNOKunZdrEgB870z8u5bA6jqTnWRG45YbGlbRJ4qyJd_9oE2ncg/w400-h245/Sculpture.png)
 
-### Balance Sheet >> [Live preview](https://codringavan.github.io/balance-sheet/) >> [Code](https://codringavan.github.com/balance-sheet)
+### Balance Sheet >> [Live preview](https://codringavan.github.io/balance-sheet/) >> [Code](https://github.com/CodrinGavan/balance-sheet)
 [View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfg3MSuIORpaJylhfL6LAJ34fzZM5EXRc-lh1HalRHtkw_VqhRVahzp0C06n-CBGjtkO-RaGlWrFPO4MU3pk6bBrwYEyLtQjJ3JjOxf4EYlg6s9VMp_iCNPPOrSPXMckZBvHpgaAUHH_5EoiBXFY7YDwg04Rv9Sbo0O-sm0jd9JE5IjFi6TAyt189a4Q/w373-h400/Balance-Sheet.png)
 
 ### Camper Cafe >> [Live preview](https://codringavan.github.io/camper-cafe/) >> [Code](https://codringavan.github.com/camper-cafe)
