@@ -28,7 +28,7 @@ Live preview portofolio:
 ### CSS Color Marker >> [Live preview](https://codringavan.github.io/CSS-color-marker/) >> [Code](https://github.com/CodrinGavan/CSS-color-marker)
 [View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZVKvF7ErFoMd8MtgCXmnuBYdEz0F2xqQoGFRAP54ZLl5FlnrHCtgf6mNezImbGdPyYwFxyrSPxvaX_uDMeopN2wM0qLtWr9RAJRu3SDm1HnxlxTebEmznq2c7e-qS8V2OS9vb8E7vLUwhp44W6pEpBPMevgVCMBQC5J4jFRnnS2cVmD97yInMgOd_sw/s400/CSS%20Color%20Marker.png)
 
-### Ferris Wheel >> [Live preview](https://codringavan.github.io/ferris-wheel/) >> [Code](https://github.com/CodrinGavanferris-wWeel)
+### Ferris Wheel >> [Live preview](https://codringavan.github.io/ferris-wheel/) >> [Code](https://github.com/CodrinGavan/ferris-wheel)
 [View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDRHRoC_jFk3NtPlJdlOJv7wrmpSnH663X3Q7ctoF-gsMmm8WjcnbqUxbJS9O-ZSF2bCAxl16KbpNOWla55tfn7rvzB1VD0zvSKr0ol6KNEDqNS43Z5Dm8paNDct_NHv_nfoGx3JRgi2DyFQY0tCI6P5cJwaibGwYz0If_2FyX18_M9EbqiJ1jrpV36g/s400/Ferris-Wheel.png)
 
 ### Landing Page >> [Live preview](https://codringavan.github.io/landing/) >> [Code](https://github.com/CodrinGavan/landing)
