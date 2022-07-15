@@ -20,7 +20,7 @@ Live preview portofolio:
 ### Penguin >> [Live preview](https://codringavan.github.io/Penguin/) >> [Code](https://codringavan.github.com/Penguin/)
 ### Picasso Painting >> [Live preview](https://codringavan.github.io/Picasso-painting/) >> [Code](https://codringavan.github.com/Picasso-painting/)
 ### Registration Form >> [Live preview](https://codringavan.github.io/registration-form/) >> [Code](https://codringavan.github.com/registration-form/)
-[Image](="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivuBSm_6QBTL58kbjC0q-gqbt06D4UndtKSPjO0od57-3FnqBIvxTvMpfUO-LhyyTh_-LZVFEEPJRW8quubxBjvrjkL4CguK17zc7N0uLZoE3KTKmlYfDG3lPRK-5vaSD23BkU_y0eO1biEbkXYp6zxPnwYF5IvLMGl8FTC61NYlq9rU5SYWL94U8AqQ/s400/registration-form.png")
+[Image](src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivuBSm_6QBTL58kbjC0q-gqbt06D4UndtKSPjO0od57-3FnqBIvxTvMpfUO-LhyyTh_-LZVFEEPJRW8quubxBjvrjkL4CguK17zc7N0uLZoE3KTKmlYfDG3lPRK-5vaSD23BkU_y0eO1biEbkXYp6zxPnwYF5IvLMGl8FTC61NYlq9rU5SYWL94U8AqQ/s400/registration-form.png")
 ### Survey Form >> [Live preview](https://codringavan.github.io/survey-form/) >> [Code](https://codringavan.github.com/survey-form/)
 ### Technical Documentation >> [Live preview](https://codringavan.github.io/technical-documentation/) >> [Code](https://codringavan.github.com/technical-documentation/)
 ### Tribute >> [Live preview](https://codringavan.github.io/tribute/) >> [Code](https://codringavan.github.com/tribute/)
