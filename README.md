@@ -58,7 +58,7 @@ Live preview portofolio:
 ![Image description]
 <br><br><br>
 ### Tribute >> [Live preview](https://codringavan.github.io/tribute/) >> [Code](https://github.com/CodrinGavan/tribute)
-[View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi52onG_swYmqIoj8NbTfQ2Nb9kiY4GiM_jLeIqmPl-EoXqdUl5Ltb68Bz6iNyYRAd8uL_Zevxa3y6pPEWh6p0Squ_lfje-4w4ViH3w6luDCjhpHk3T3IdKT7j38BlTgWQvcGvl5h259IbdoX9AL266Y7tjxCX1qTUhQWLcuNYCjLziM0AMqkjDmVf0Iw/s400/Tribute.png))
+[View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi52onG_swYmqIoj8NbTfQ2Nb9kiY4GiM_jLeIqmPl-EoXqdUl5Ltb68Bz6iNyYRAd8uL_Zevxa3y6pPEWh6p0Squ_lfje-4w4ViH3w6luDCjhpHk3T3IdKT7j38BlTgWQvcGvl5h259IbdoX9AL266Y7tjxCX1qTUhQWLcuNYCjLziM0AMqkjDmVf0Iw/s400/Tribute.png)
 <br><br><br>
 ### Portofolio >> [Live preview](https://codringavan.github.io/Portofolio/) >> [Code](https://github.com/CodrinGavan/Portofolio)
 [View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja0Kuwv4zyF6zz9B4vW92MUarkGxKvMoq2nz5rhQzvmQ2IghtABbM4e8ZgdA_d7s7Yypm-X5hNIlDilH48dpOWXb2gA_YEVNa5hkRs2SpY1kRAI-OdcTSPxdlSV6o-ausozc7Xj5d8HFnbZceO9Ki6-wKmCUsXK-oEujkW42rYVYFRqQCJkt7lalGMGA/s400/Portofolio1.png)
