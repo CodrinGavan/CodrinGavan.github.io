@@ -5,6 +5,7 @@
 Live preview portofolio: 
 
 ### Odin Project >> [Live preview](https://codringavan.github.io/odin-project/) >> [Code](https://github.com/CodrinGavan/odin-project) >> [Vote My Project](https://www.theodinproject.com/dashboard) Thank You!:)
+![Image description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijzeVq8KfJC0E5urbk1gLyt07wK0sabMsCHAyoP7hx13f159Kxb5LbFuiCGC7NcXVwHCUnpO-5hnpO8n47z2Z2o2Kpe0Bm-Ns1Fymtk6N_LGBKsVEHiMLqdiGLOhWOjx5ZxoEt2ivZNOKunZdrEgB870z8u5bA6jqTnWRG45YbGlbRJ4qyJd_9oE2ncg/w400-h245/Sculpture.png)
 [View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijzeVq8KfJC0E5urbk1gLyt07wK0sabMsCHAyoP7hx13f159Kxb5LbFuiCGC7NcXVwHCUnpO-5hnpO8n47z2Z2o2Kpe0Bm-Ns1Fymtk6N_LGBKsVEHiMLqdiGLOhWOjx5ZxoEt2ivZNOKunZdrEgB870z8u5bA6jqTnWRG45YbGlbRJ4qyJd_9oE2ncg/w400-h245/Sculpture.png)
 
 ### Balance Sheet >> [Live preview](https://codringavan.github.io/balance-sheet/) >> [Code](https://github.com/CodrinGavan/balance-sheet)
