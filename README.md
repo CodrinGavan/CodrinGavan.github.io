@@ -54,11 +54,10 @@ Live preview portofolio:
 ![Image description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo50Hm0K_DOAVgqDoA-BmrvZwnkg_hxqlOpBZHKkm1FCGHaLZPC2swI_jnXdpExJzxd8UigOrY6DKPMkDXkdTw2FaPMUfsthUCrWkSSmAQ2I5UoTVfbM5F2lkgxRYh2zuI5IbuSHCVj22nfcQ3a3C2MKbclMKDSEveYcZDe5D2RLqx-0e1rUeNU5qIiA/s400/survey-form.png)
 <br><br><br>
 ### Technical Documentation >> [Live preview](https://codringavan.github.io/technical-documentation/) >> [Code](https://github.com/CodrinGavan/technical-documentation)
-[View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_AyOtCEfGZgLCO7q8hiimHSjSmqx5hOdS1waK0TN-eieVMl5dyiyfCjHF1I4YMAxa5pNj_JrAxJNaY1u6R7D6DmeeCmBZ1m00mJfbx-rzFq1JH9F7Zx6CnTXBo1wS7KStB_JO8QoRgfbQ3XeGnuhRujuqz3qDLzvd1ionDbYhZ7yIOAVcWOC-7pOUug/s400/Technical-Documentation.png)
-![Image description]
+![Image description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_AyOtCEfGZgLCO7q8hiimHSjSmqx5hOdS1waK0TN-eieVMl5dyiyfCjHF1I4YMAxa5pNj_JrAxJNaY1u6R7D6DmeeCmBZ1m00mJfbx-rzFq1JH9F7Zx6CnTXBo1wS7KStB_JO8QoRgfbQ3XeGnuhRujuqz3qDLzvd1ionDbYhZ7yIOAVcWOC-7pOUug/s400/Technical-Documentation.png)
 <br><br><br>
 ### Tribute >> [Live preview](https://codringavan.github.io/tribute/) >> [Code](https://github.com/CodrinGavan/tribute)
-[View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi52onG_swYmqIoj8NbTfQ2Nb9kiY4GiM_jLeIqmPl-EoXqdUl5Ltb68Bz6iNyYRAd8uL_Zevxa3y6pPEWh6p0Squ_lfje-4w4ViH3w6luDCjhpHk3T3IdKT7j38BlTgWQvcGvl5h259IbdoX9AL266Y7tjxCX1qTUhQWLcuNYCjLziM0AMqkjDmVf0Iw/s400/Tribute.png)
+![Image description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi52onG_swYmqIoj8NbTfQ2Nb9kiY4GiM_jLeIqmPl-EoXqdUl5Ltb68Bz6iNyYRAd8uL_Zevxa3y6pPEWh6p0Squ_lfje-4w4ViH3w6luDCjhpHk3T3IdKT7j38BlTgWQvcGvl5h259IbdoX9AL266Y7tjxCX1qTUhQWLcuNYCjLziM0AMqkjDmVf0Iw/s400/Tribute.png)
 <br><br><br>
 ### Portofolio >> [Live preview](https://codringavan.github.io/Portofolio/) >> [Code](https://github.com/CodrinGavan/Portofolio)
-[View Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja0Kuwv4zyF6zz9B4vW92MUarkGxKvMoq2nz5rhQzvmQ2IghtABbM4e8ZgdA_d7s7Yypm-X5hNIlDilH48dpOWXb2gA_YEVNa5hkRs2SpY1kRAI-OdcTSPxdlSV6o-ausozc7Xj5d8HFnbZceO9Ki6-wKmCUsXK-oEujkW42rYVYFRqQCJkt7lalGMGA/s400/Portofolio1.png)
+![Image description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja0Kuwv4zyF6zz9B4vW92MUarkGxKvMoq2nz5rhQzvmQ2IghtABbM4e8ZgdA_d7s7Yypm-X5hNIlDilH48dpOWXb2gA_YEVNa5hkRs2SpY1kRAI-OdcTSPxdlSV6o-ausozc7Xj5d8HFnbZceO9Ki6-wKmCUsXK-oEujkW42rYVYFRqQCJkt7lalGMGA/s400/Portofolio1.png)
