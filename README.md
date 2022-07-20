@@ -29,7 +29,7 @@
            <div class="separator" style="clear: both;"><a href="https://github.com/CodrinGavan" style="display: block; margin-left: 1em; margin-right: 1em; padding: 1em 0px; text-align: center;" target="_blank"><img alt="" border="0" data-original-height="929" data-original-width="1516" height="70" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijzeVq8KfJC0E5urbk1gLyt07wK0sabMsCHAyoP7hx13f159Kxb5LbFuiCGC7NcXVwHCUnpO-5hnpO8n47z2Z2o2Kpe0Bm-Ns1Fymtk6N_LGBKsVEHiMLqdiGLOhWOjx5ZxoEt2ivZNOKunZdrEgB870z8u5bA6jqTnWRG45YbGlbRJ4qyJd_9oE2ncg/w400-h245/Sculpture.png" width="400" /></a></div>
         </td>
         <td><br><br>
-           <a href=”https://codringavan.github.io/odin-project/”> >> Live preview</a>
+          [Live preview](https://codringavan.github.io/odin-project/) <a href=”https://codringavan.github.io/odin-project/”> >> Live preview</a>
         </td>
         <td><br><br>
            <a href=”https://github.com/CodrinGavan/odin-project”> >> Code</a>
