@@ -4,7 +4,9 @@
 
 Live preview portofolio: 
 
-<table border="1" cellpadding="4" cellspacing="0" width="100%"> <tbody><tr> <td>### Odin Project >> &nbsp;<a href=”https://codringavan.github.io/odin-project/”>Live preview</a>
+<table border="1" cellpadding="4" cellspacing="0" width="100%">
+ <tbody>
+  <tr> <td>### Odin Project >> &nbsp;<a href=”https://codringavan.github.io/odin-project/”>Live preview</a>
 <a href=”https://github.com/CodrinGavan/odin-project”> >> Code</a><br>
 <a href=”https://www.theodinproject.com/dashboard”>Vote My Project</a> - Thank You!:)<br>
 <img src=”https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijzeVq8KfJC0E5urbk1gLyt07wK0sabMsCHAyoP7hx13f159Kxb5LbFuiCGC7NcXVwHCUnpO-5hnpO8n47z2Z2o2Kpe0Bm-Ns1Fymtk6N_LGBKsVEHiMLqdiGLOhWOjx5ZxoEt2ivZNOKunZdrEgB870z8u5bA6jqTnWRG45YbGlbRJ4qyJd_9oE2ncg/w400-h245/Sculpture.png” width=”300px” height=”180px”/></td>
