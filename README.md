@@ -1,6 +1,6 @@
 #  GitHub Portofolio
 ## Welcome to [My Pages](https://codringavan.github.io/)
-GAVAN CODRIN >> [Linkedin profile](https://www.linkedin.com/in/codrin-gavan-a20884244/)
+CODRIN GAVAN >> [Linkedin profile](https://www.linkedin.com/in/codrin-gavan-a20884244/)
 
 Live preview portofolio: 
 
