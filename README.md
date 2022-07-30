@@ -1,6 +1,6 @@
 #  GitHub Portofolio
 ## Welcome to [My Pages](https://codringavan.github.io/)
-
+GAVAN CODRIN >> [Linkedin profile](https://www.linkedin.com/in/codrin-gavan-a20884244/)
 
 Live preview portofolio: 
 
@@ -46,3 +46,5 @@ Live preview portofolio:
 
 ###  Product Landing Page >> [Live preview](https://codringavan.github.io/product-landing-page) >> [Code](https://github.com/CodrinGavan/product-landing-page)
 
+
+              
